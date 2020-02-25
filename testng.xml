@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="softwaretestingmaterial">
+<test name="Regression1" preserve-order="false">
+    <classes>
+
+        <class name="CanvasTest" />
+
+
+    </classes>
+</test>
+</suite>
